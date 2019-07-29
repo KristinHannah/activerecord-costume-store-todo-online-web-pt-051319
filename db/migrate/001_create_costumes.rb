@@ -18,6 +18,6 @@ class Costumes < ActiveRecord::Migration[5.1]
       t.timestamp :created_at 
       t.timestamp :updated_at
   end 
-  
+end 
   
 end 
